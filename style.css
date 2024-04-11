@@ -2,6 +2,7 @@ const lightsData = [
     { id: 1, lux: 1200, status: 'off', fault: false, powerConsumption: 30 },
     { id: 2, lux: 800, status: 'on', fault: true, powerConsumption: 25 },
 ];
+/* above values are static, take the input as dynamic data from server */
 
 function renderLightsTable() {
     const lightsSection = document.getElementById('lights-section');
