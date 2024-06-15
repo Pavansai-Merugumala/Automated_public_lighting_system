@@ -45,7 +45,10 @@ The project includes the following components:
 - **Arduino IDE**: Used to upload sketches to the Arduino Uno. (note: prefer arduino ide version 1.8.3)
 - **Node.js**: Required to run the server.
 
+
 ## Notes
 
 - Ensure proper connections of sensors and modules to the Arduino.
 - Update `server.js` with the correct serial port (`COM` port) for communication with the Arduino.
+- ![WhatsApp Image 2024-06-15 at 13 49 14](https://github.com/Pavansai-Meruguma![WhatsApp Image 2024-06-15 at 13 49 31](https://github.com/Pavansai-Merugumala/Automated_public_lighting_system/assets/84954330/cde6e318-4474-4a88-82cc-32dd7e15e83f)
+la/Automated_public_lighting_system/assets/84954330/e7edf860-e2d4-4cfe-8aa9-77cbfa12458f)
